@@ -67,8 +67,7 @@
         <div class="flex-center position-ref full-height">
             <div class="top-right links">
                 <a href="{{ url('/') }}">Home</a>
-                <a href="{{ url('/admin/login') }}">Login</a>
-                <a href="{{ url('/admin/register') }}">Register</a>
+                <a href="{{ url('/admin/dashboard') }}">Admin Dashboard</a>
             </div>
 
             <div class="content">

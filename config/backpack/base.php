@@ -93,7 +93,7 @@ return [
     // ------
 
     // Footer element classes.
-    'footer_class' => 'app-footer',
+    'footer_class' => 'app-footer d-none',
         // hide it with d-none
         // change background color with bg-dark, bg-primary, bg-secondary, bg-danger, bg-warning, bg-success, bg-info, bg-blue, bg-light-blue, bg-indigo, bg-purple, bg-pink, bg-red, bg-orange, bg-yellow, bg-green, bg-teal, bg-cyan, bg-white
 
