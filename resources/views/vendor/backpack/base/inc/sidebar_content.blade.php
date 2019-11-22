@@ -8,6 +8,7 @@
       <li class="nav-item"><a class="nav-link" href="{{ backpack_url('tag') }}"><i class="nav-icon fa fa-tag"></i> Tags</a></li>
     </ul>
 </li>
+<li class='nav-item'><a class='nav-link' href='{{ backpack_url('visitor') }}'><i class='nav-icon fa fa-group'></i> Visitors</a></li>
 <li class='nav-item'><a class='nav-link' href='{{ backpack_url('page') }}'><i class='nav-icon fa fa-file-o'></i> <span>Pages</span></a></li>
 <li class='nav-item'><a class='nav-link' href='{{ backpack_url('menu-item') }}'><i class='nav-icon fa fa-list'></i> <span>Menu</span></a></li>
 <li class="nav-item"><a class="nav-link" href="{{ backpack_url('setting') }}"><i class="nav-icon fa fa-cog"></i> <span>Settings</span></a></li>
